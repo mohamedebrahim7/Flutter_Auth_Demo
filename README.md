@@ -15,10 +15,15 @@
 
 ## Screenshots
 
+<table>
+
   <tr>
     <td><img src="screenshots/facebook.gif" ></td>
     <td><img src="screenshots/google.gif" ></td>
 
   </tr>
+ </table> 
+ 
+
 
 
