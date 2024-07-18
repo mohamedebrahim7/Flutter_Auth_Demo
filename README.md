@@ -6,8 +6,6 @@
 
 **Flutter Auth Demo** is a simple Flutter application demonstrating how to implement Google Sign-In and Facebook Sign-In functionalities, including logout. This app serves as a template for integrating social authentication in Flutter projects, ensuring a smooth and user-friendly authentication experience.
 
-![App Screenshot](https://example.com/app_screenshot.png)
-
 ## Features
 
 - **Google Sign-In**: Easily integrate Google authentication.
@@ -18,8 +16,8 @@
 ## Screenshots
 
   <tr>
-    <td><img src="screen_shots/facebook.gif" ></td>
-    <td><img src="screen_shots/google.gif" ></td>
+    <td><img src="screenshots/facebook.gif" ></td>
+    <td><img src="screenshots/google.gif" ></td>
 
   </tr>
 
