@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992209225498",
+    "project_id": "login-c8261",
+    "storage_bucket": "login-c8261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992209225498:android:d00440dbce306f4ee1cea3",
+        "android_client_info": {
+          "package_name": "com.qq.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCN5M0zvPL1_ZKQ3X-h7HAVlKi_malt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
